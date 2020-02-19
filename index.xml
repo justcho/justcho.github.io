@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Blog</title>
+    <title>曹朗朗的博客</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Blog</description>
+    <description>Recent content on 曹朗朗的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Wed, 19 Feb 2020 18:51:11 +0800</lastBuildDate>
