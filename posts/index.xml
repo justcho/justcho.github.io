@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 曹朗朗的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 19 Feb 2020 23:10:30 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 00:24:50 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>测试</title>
+      <link>http://example.org/posts/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Thu, 20 Feb 2020 00:24:50 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E6%B5%8B%E8%AF%95/</guid>
+      <description>这个是用来测试的 什么都没有的</description>
+    </item>
     
     <item>
       <title>如何用hugo搭建个人博客</title>
@@ -21,39 +30,12 @@
     </item>
     
     <item>
-      <title>Aaaa</title>
-      <link>http://example.org/posts/aaaa/</link>
-      <pubDate>Wed, 19 Feb 2020 20:00:39 +0800</pubDate>
-      
-      <guid>http://example.org/posts/aaaa/</guid>
-      <description>wwwwwwww aaaaaaa</description>
-    </item>
-    
-    <item>
       <title>我的新博客</title>
       <link>http://example.org/posts/%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 19 Feb 2020 19:49:15 +0800</pubDate>
       
       <guid>http://example.org/posts/%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2/</guid>
       <description>欢迎你们来来俩了了了了了了</description>
-    </item>
-    
-    <item>
-      <title>My Second Blog</title>
-      <link>http://example.org/posts/my-second-blog/</link>
-      <pubDate>Wed, 19 Feb 2020 18:51:11 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-second-blog/</guid>
-      <description>我的第二个微博 跟第一个不一样哦</description>
-    </item>
-    
-    <item>
-      <title>My First Blog</title>
-      <link>http://example.org/posts/my-first-blog/</link>
-      <pubDate>Wed, 19 Feb 2020 18:18:09 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-first-blog/</guid>
-      <description>zhe是我的第一个博客 欢迎大家来玩啊</description>
     </item>
     
   </channel>
