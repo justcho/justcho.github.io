@@ -2,40 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>曹朗朗的博客</title>
-    <link>http://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 曹朗朗的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:24:50 +0800</lastBuildDate>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Feb 2020 00:46:16 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>测试</title>
-      <link>http://example.org/posts/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Thu, 20 Feb 2020 00:24:50 +0800</pubDate>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E6%B5%8B%E8%AF%95/</guid>
-      <description>这个是用来测试的 什么都没有的</description>
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
     </item>
     
     <item>
-      <title>如何用hugo搭建个人博客</title>
-      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Wed, 19 Feb 2020 23:10:30 +0800</pubDate>
+      <title>Hugo搭建个人博客</title>
+      <link>http://localhost:1313/post/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 20 Feb 2020 00:46:16 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description>如何用hugo搭建个人博客 </description>
-    </item>
-    
-    <item>
-      <title>我的新博客</title>
-      <link>http://example.org/posts/%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Wed, 19 Feb 2020 19:49:15 +0800</pubDate>
+      <guid>http://localhost:1313/post/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
       
-      <guid>http://example.org/posts/%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2/</guid>
-      <description>欢迎你们来来俩了了了了了了</description>
+        <description>&lt;h1 id=&#34;hugo搭建个人博客&#34;&gt;HUGO搭建个人博客&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/dohugo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+      
     </item>
     
   </channel>
