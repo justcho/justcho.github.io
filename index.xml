@@ -6,10 +6,19 @@
     <description>Recent content on My New Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 19 Feb 2020 18:18:09 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 18:51:11 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Second Blog</title>
+      <link>http://example.org/posts/my-second-blog/</link>
+      <pubDate>Wed, 19 Feb 2020 18:51:11 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-second-blog/</guid>
+      <description>我的第二个微博 跟第一个不一样哦</description>
+    </item>
     
     <item>
       <title>My First Blog</title>
